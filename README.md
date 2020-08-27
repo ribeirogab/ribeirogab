@@ -1,8 +1,7 @@
 # Gabriel Ribeiro
 Desenvolvedor Full Stack @iCloudsSW.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ribeirogabx/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:ribeirogabx@gmail.com)
+
 
 Olá, meu nome é Gabriel e venho trabalhando com desenvolvimento a cerca de 2 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FATEC, possuo formação técnica em Informática para Internet pela ETEC, certificado pelo Bootcamp GoStack da @Rocketseat. 
 
