@@ -7,7 +7,7 @@ Desenvolvedor Full Stack @iCloudsSW.
 
 Olá, meu nome é Gabriel e venho trabalhando com desenvolvimento a cerca de 2 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FATEC, possuo formação técnica em Informática para Internet pela ETEC e certificação pelo Bootcamp GoStack da @Rocketseat. 
 
-Venho sempre me atualizando e buscando me aperfeiçoar nas tecnologias que utilizo. Possuo experiência considerável com JavaScript e seu ecossistema (TypeScript, Node.js, Next.js, React, React Native, Electron e etc).
+Venho sempre me atualizando e buscando me aperfeiçoar nas tecnologias que utilizo. Possuo experiência considerável com JavaScript e seu ecossistema (TypeScript, Node.js, Next.js, React, React Native, Electron e etc). Experiência na criação de web crawlers com Node.js, utilizando principalmente Cheerio e Puppeteer.
    
    
 > Você pode encarar um erro como uma besteira a ser esquecida, ou como um resultado que aponta uma nova direção.
