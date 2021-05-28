@@ -1,8 +1,8 @@
 # Gabriel Ribeiro
 
-Full Stack Developer at [iClouds.com.br](https://www.iclouds.com.br/).
+Full Stack Developer at [iClouds](https://www.iclouds.com.br/).
 
-CTO and Developer at [ToBruxo.com.br](https://tobruxo.com.br/).
+CTO and Developer at [ToBruxo](https://tobruxo.com.br/).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Ribeiro-2777b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ribeirogabx/)](https://www.linkedin.com/in/ribeirogabx/) 
