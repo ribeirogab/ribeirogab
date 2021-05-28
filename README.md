@@ -1,5 +1,7 @@
 # Gabriel Ribeiro
+
 Full Stack Developer @iCloudsSW.
+
 CTO @ToBruxo.
 
 
